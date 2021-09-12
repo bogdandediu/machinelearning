@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+data
+mnist2
+checkpoint.pth
+cifar_net.pth
+cnn.pth
+model.pth
